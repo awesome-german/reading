@@ -1025,3 +1025,19 @@ Happy reading! Viel Erfolg beim Lesen!
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [**better-super-simple-highlighter**](https://github.com/didvc/better-super-simple-highlighter) — Better Super Simple Highlighter - a Chrome extension (MV3), text highlighting for web pages. The enhanced fork of…
+- [**culture**](https://github.com/awesome-german/culture) — German cultural insights, traditions, and lifestyle guides for learners and expatriates.
+- [**historical-linguistics**](https://github.com/awesome-german/historical-linguistics)
+- [**academic-corpora**](https://github.com/awesome-german/academic-corpora)
+- [**news**](https://github.com/awesome-german/news) — German news outlets, RSS feeds, and current-affairs reading practice tools
+- [**core**](https://github.com/URL-Note-Taker/core) — URL Note Taker is a userscript that allows you to take notes on any webpage. Built with Preact, it provides a modern and intuitive user interface.
+- [**ytnote**](https://github.com/didvc/ytnote) — A note taking app for YouTube and many more. Fully works on Chrome, Firefox, Safari. Built on React.js.
+- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
+<!-- END gh-mutual-linking -->
