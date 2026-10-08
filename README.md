@@ -956,6 +956,12 @@ Niche topics provide vocabulary development in specific domains.
 - **Elle Deutschland** - Fashion and lifestyle.
 - **SZ Magazin** - Lifestyle supplement of Süddeutsche Zeitung.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions to this awesome list are welcome! Please ensure your suggestions:
@@ -1022,9 +1028,9 @@ Happy reading! Viel Erfolg beim Lesen!
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
 
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
 
 <!-- BEGIN gh-mutual-linking -->
 
@@ -1032,12 +1038,9 @@ To the extent possible under law, the contributors have waived all copyright and
 
 ### Related projects
 
-- [**better-super-simple-highlighter**](https://github.com/didvc/better-super-simple-highlighter) — Better Super Simple Highlighter - a Chrome extension (MV3), text highlighting for web pages. The enhanced fork of…
-- [**culture**](https://github.com/awesome-german/culture) — German cultural insights, traditions, and lifestyle guides for learners and expatriates.
-- [**historical-linguistics**](https://github.com/awesome-german/historical-linguistics)
-- [**academic-corpora**](https://github.com/awesome-german/academic-corpora)
-- [**news**](https://github.com/awesome-german/news) — German news outlets, RSS feeds, and current-affairs reading practice tools
-- [**core**](https://github.com/URL-Note-Taker/core) — URL Note Taker is a userscript that allows you to take notes on any webpage. Built with Preact, it provides a modern and intuitive user interface.
-- [**ytnote**](https://github.com/didvc/ytnote) — A note taking app for YouTube and many more. Fully works on Chrome, Firefox, Safari. Built on React.js.
-- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
+- [news](https://github.com/awesome-german/news): German news outlets, RSS feeds, and current-affairs reading practice tools.
+- [vocabulary](https://github.com/awesome-german/vocabulary): Curated resources and tools to expand German vocabulary by topic, frequency, and context.
+- [grammar](https://github.com/awesome-german/grammar): Resources for learning German grammar, including structures, syntax, and usage nuances.
+- [web-resources](https://github.com/awesome-german/web-resources): Online platforms, databases, and archives for German studies.
+
 <!-- END gh-mutual-linking -->
