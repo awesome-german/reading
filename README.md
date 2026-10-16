@@ -254,6 +254,7 @@ Digital platforms have revolutionized language learning, providing instant acces
 - **LingQ** - Import any German text, create lessons, and track vocabulary acquisition with spaced repetition.
 - **Readlang** - Read German texts with instant translations, save vocabulary, and practice with flashcards.
 - **Beelinguapp** - Bilingual texts with parallel German-English display and audio narration.
+- [DuoText library](https://duotext.io/library/) - 120+ free public-domain short stories in German with the English beside each paragraph, from A1 fables to C1 Poe; read online or download for Kindle and Kobo (machine-translated).
 - **Deutsche Welle Learn German** - Comprehensive free platform with leveled reading materials, audio, and exercises.
 - **Goethe-Institut Digital** - Official language institute materials including extensive reading resources.
 
